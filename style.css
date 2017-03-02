@@ -1,0 +1,97 @@
+body{
+	font-family: Verdana, sans-serif;
+}
+.nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+	
+}
+
+.nav li {
+    float: left;
+	margin-left:50px;
+	margin-right: 50px;
+	
+}
+
+.nav li a{
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+	
+}
+li a:hover{
+    background-color: #595959;
+}
+section{
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: -10px;
+	font-family: Garamond, serif;
+}
+
+#education li, #skills li {
+	list-style-type: square;
+	
+}
+
+.fooditems{
+	position:relative;
+	border-radius: 5px;
+	background-color: #F4EBC3;
+}
+
+.fooditems p{
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: -10px;
+	font-family: Garamond, serif;
+	font-size:1.1em;
+}
+
+.favplace{
+	text-align:center;
+	
+}
+
+.favplace section{
+	padding-top:10px;
+}
+
+.center{
+	width:500px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.center ul{
+	text-align:left;
+	
+	list-style-position:inside;
+}
+
+#list-center{
+	width:250px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+footer {
+	position: relative;
+	height: 75px;
+	background-color: #333;
+	clear: both;
+	font-size: 14px;
+	text-align: center;
+	color: #ffffff;
+}
+
+footer p {
+	position: relative;
+	padding-top: 15px;
+}
