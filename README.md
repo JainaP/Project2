@@ -1,2 +1,2 @@
 # Project2
-ITM class project2 with the CSS page 
+ITMD361 class first three pages from project 1 and a CSS page.
